@@ -1,1 +1,1 @@
-console.log(123)
+import './类型'
